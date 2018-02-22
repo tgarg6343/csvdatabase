@@ -1,4 +1,4 @@
-package com.db.csvengine;
+package com.database;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
